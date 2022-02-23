@@ -1,0 +1,482 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and faithful list of those worthy gentlemen &amp; citizens His Majesty has been pleased to commissionate anew for the honourable lieutenancy of the city of London which is just past the seals.</title>
+            <author>Commissioners of Lieutenancy for the city of London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38877</idno>
+            <idno type="STC">Wing E3597</idno>
+            <idno type="STC">ESTC R37323</idno>
+            <idno type="EEBO-CITATION">16350478</idno>
+            <idno type="OCLC">ocm 16350478</idno>
+            <idno type="VID">105325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105325)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1091:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and faithful list of those worthy gentlemen &amp; citizens His Majesty has been pleased to commissionate anew for the honourable lieutenancy of the city of London which is just past the seals.</title>
+                  <author>Commissioners of Lieutenancy for the city of London.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtiss,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licens'd March 18th, J.F. 1690."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:105325:1" rendition="simple:additions"/>
+            <head>An Exact and Faithful LIST Of thoſe Worthy Gentlemen &amp; Citizens His MAJESTY has been pleaſed to Commiſſionate Anew FOR THE <hi>Honourable Lieutenancy</hi> OF THE City of LONDON, Which is juſt paſt the SEALS.</head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licens'd</p>
+                        <closer>
+                           <dateline>
+                              <date>March 18th,</date>
+                           </dateline> 
+                           <signed>J. F.</signed> 1690.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <list>
+               <item>SIR <hi>THOMAS PILKINGTON,</hi> LORD MAYOR for the time being.</item>
+               <item>Sir <hi>Thomas Allen</hi> Baronet.</item>
+               <item>Sir <hi>John Lawrence.</hi>
+               </item>
+               <item>Sir <hi>William Turner.</hi>
+               </item>
+               <item>Sir <hi>Robert Clayton.</hi>
+               </item>
+               <item>Sir <hi>Patience Ward.</hi>
+               </item>
+               <item>Sir <hi>William Pritchard.</hi>
+               </item>
+               <item>Sir <hi>Robert Jeofferys.</hi>
+               </item>
+               <item>Sir <hi>George Treby</hi> Recorder, for the time being.</item>
+               <item>Sir <hi>Jonathan Raymond.</hi>
+               </item>
+               <item>Sir <hi>Thomas Stamp.</hi>
+               </item>
+               <item>Sir <hi>Samuel Daſhwood.</hi>
+               </item>
+               <item>Sir <hi>Benjamin Thorowgood.</hi>
+               </item>
+               <item>Sir <hi>William Aſhurſt.</hi>
+               </item>
+               <item>Sir <hi>Humphrey Edwin.</hi>
+               </item>
+               <item>Sir <hi>John Fleete.</hi>
+               </item>
+               <item>Sir <hi>Benjamin Newland.</hi>
+               </item>
+               <item>Sir <hi>Thomas Fowles.</hi>
+               </item>
+               <item>Sir <hi>John Matthews.</hi>
+               </item>
+               <item>Sir <hi>Henry Aſhurſt</hi> Baronet.</item>
+               <item>Sir <hi>John Leithelier.</hi>
+               </item>
+               <item>Sir <hi>Peter Vandeputt.</hi>
+               </item>
+               <item>Sir <hi>William Ruſſell.</hi>
+               </item>
+               <item>Sir <hi>Jeremiah Sambrook.</hi>
+               </item>
+               <item>Sir <hi>William Hedges—</hi>Knights.</item>
+               <item>Sir <hi>John Mordant</hi> Baronet.</item>
+               <item>Sir <hi>Gabriel Roberts.</hi>
+               </item>
+               <item>Sir <hi>Francis Child.</hi>
+               </item>
+               <item>Sir <hi>Edward Clark.</hi>
+               </item>
+               <item>Sir <hi>John Houbland.</hi>
+               </item>
+               <item>Sir <hi>John Cutler.</hi>
+               </item>
+               <item>Sir <hi>Edward Desbovery.</hi>
+               </item>
+               <item>Sir <hi>James Ward.</hi>
+               </item>
+               <item>Sir <hi>Thomas Kenſly.</hi>
+               </item>
+               <item>Sir <hi>Robert Adams.</hi>
+               </item>
+               <item>Sir <hi>Thomas Vernon.</hi>
+               </item>
+               <item>Sir <hi>Ralph Box.</hi>
+               </item>
+               <pb n="2" facs="tcp:105325:2"/>
+               <item> Sir <hi>James Smith.</hi>
+               </item>
+               <item>Sir <hi>Peter Rich.</hi>
+               </item>
+               <item>Sir <hi>William Goſlyn.</hi>
+               </item>
+               <item>Sir <hi>Chriſtopher Leithelier.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Papillion.</hi>
+               </item>
+               <item>
+                  <hi>Joſeph Herne.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Frederick:</hi>
+               </item>
+               <item>
+                  <hi>John Birch.</hi>
+               </item>
+               <item>
+                  <hi>William Kiffin.</hi>
+               </item>
+               <item>
+                  <hi>Edward <g ref="char:V">Ʋ</g>nderhill.</hi>
+               </item>
+               <item>
+                  <hi>George Sittwell.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Weſterne.</hi>
+               </item>
+               <item>
+                  <hi>John Jolliffe.</hi>
+               </item>
+               <item>
+                  <hi>Charles Thorold.</hi>
+               </item>
+               <item>
+                  <hi>Nathaniel Tench.</hi>
+               </item>
+               <item>
+                  <hi>Francis Chamberlayne.</hi>
+               </item>
+               <item>
+                  <hi>James Hudſon.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Langham.</hi>
+               </item>
+               <item>
+                  <hi>Peter Houbland.</hi>
+               </item>
+               <item>
+                  <hi>James Houbland.</hi>
+               </item>
+               <item>
+                  <hi>Leonard Robinſon.</hi>
+               </item>
+               <item>
+                  <hi>William Jarrett.</hi>
+               </item>
+               <item>
+                  <hi>Daniel Mercer.</hi>
+               </item>
+               <item>
+                  <hi>Andrew Kendrick.</hi>
+               </item>
+               <item>
+                  <hi>John Havill.</hi>
+               </item>
+               <item>
+                  <hi>Robert Wittingham.</hi>
+               </item>
+               <item>
+                  <hi>William Warren.</hi>
+               </item>
+               <item>
+                  <hi>John Rayley.</hi>
+               </item>
+               <item>
+                  <hi>Francis Gosfright.</hi>
+               </item>
+               <item>
+                  <hi>William Scaven.</hi>
+               </item>
+               <item>
+                  <hi>John Foach.</hi>
+               </item>
+               <item>
+                  <hi>John Johnſon.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Powell.</hi>
+               </item>
+               <item>
+                  <hi>Joſeph Bowles.</hi>
+               </item>
+               <item>
+                  <hi>Abraham Weſſell.</hi>
+               </item>
+               <item>
+                  <hi>Walter Coventry.</hi>
+               </item>
+               <item>
+                  <hi>James Denue.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Cook</hi> Goldſmith.</item>
+               <item>
+                  <hi>Joſeph Scriven.</hi>
+               </item>
+               <item>
+                  <hi>Daniel Allen.</hi>
+               </item>
+               <item>
+                  <hi>Ralph Grange.</hi>
+               </item>
+               <item>
+                  <hi>Robert Rawworth.</hi>
+               </item>
+               <item>
+                  <hi>Francis Moore.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Shaw.</hi>
+               </item>
+               <item>
+                  <hi>John Cook</hi> of <hi>Baſſiſhaw.</hi>
+               </item>
+               <item>
+                  <hi>William Faulkenar.</hi>
+               </item>
+               <item>
+                  <hi>James Bodington.</hi>
+               </item>
+               <item>
+                  <hi>Henry Hatley.</hi>
+               </item>
+               <item>
+                  <hi>John Adams.</hi>
+               </item>
+               <item>
+                  <hi>Jeremiah Whitchcott.</hi>
+               </item>
+               <item>
+                  <hi>Pereiful Gilburne.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Short.</hi>
+               </item>
+               <item>
+                  <hi>John Kent.</hi>
+               </item>
+               <item>
+                  <hi>Richard Aley.</hi>
+               </item>
+               <item>
+                  <hi>John Nicholls.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Colſon.</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Charleton.</hi>
+               </item>
+               <item>
+                  <hi>John Midgley.</hi>
+               </item>
+               <item>
+                  <hi>William Huſſey.</hi>
+               </item>
+               <item>
+                  <hi>Edward Beeker.</hi>
+               </item>
+               <item>
+                  <hi>William Gore.</hi>
+               </item>
+               <item>
+                  <hi>William Withers.</hi>
+               </item>
+               <item>
+                  <hi>Richard Hoare.</hi>
+               </item>
+               <item>
+                  <hi>Jeoffery Nightingale.</hi>
+               </item>
+               <item>
+                  <hi>James Smith.</hi>
+               </item>
+               <item>
+                  <hi>Joſeph Horneby.</hi>
+               </item>
+               <item>
+                  <hi>Richard Beauchamp.</hi>
+               </item>
+               <item>
+                  <hi>Richard Normanſell,</hi>
+               </item>
+               <item>
+                  <hi>Joſeph Smart.</hi>
+               </item>
+               <item>
+                  <hi>Robert Bedingfield.</hi>
+               </item>
+               <item>
+                  <hi>Peter Joye.</hi>
+               </item>
+               <item>
+                  <hi>William Hooker.</hi>
+               </item>
+               <item>
+                  <hi>John Steventon.</hi>
+               </item>
+               <item>
+                  <hi>William Carpenter.</hi>
+               </item>
+               <item>
+                  <hi>Arth<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Barron.</hi>
+               </item>
+               <item>
+                  <hi>William Tempeſt.</hi>
+               </item>
+               <item>
+                  <hi>Peter Floyer.</hi>
+               </item>
+               <item>
+                  <hi>Roger Norton.</hi>
+               </item>
+               <item>
+                  <hi>Henry Clark.</hi>
+               </item>
+               <item>
+                  <hi>John Genue.</hi>
+               </item>
+               <item>
+                  <hi>John Sawyer.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Wood.</hi>
+               </item>
+               <item>
+                  <hi>Jeoffery Jeofferys.</hi>
+               </item>
+               <item>
+                  <hi>Nathaniel Hawes.</hi>
+               </item>
+               <item>
+                  <hi>William Strong.</hi>
+               </item>
+               <item>
+                  <hi>John Jeofferys.</hi>
+               </item>
+               <item>
+                  <hi>Adrian Quiney.</hi>
+               </item>
+               <item>
+                  <hi>John Wallis.</hi>
+               </item>
+               <item>
+                  <hi>John Coggs.</hi>
+               </item>
+               <item>
+                  <hi>John Eaſt.</hi>
+               </item>
+               <item>
+                  <hi>Richard Pearce.</hi>
+               </item>
+               <item>
+                  <hi>Edmund Bolter.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Langley Curtiſs. <hi>1690.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
